@@ -6,12 +6,14 @@ ACE3 compatibility for the GM6 Lynx 12.7x99mm with new SLAP, HEIAP and API ammun
 - 12.7x99mm M33 661gr according to Barrett datas.
 - 12.7x99mm M33 661gr Tracer and IR Dim Tracer.
 - Add 12.7x99mm AMAX according to Hornady datas.
-- Add 12.7x99mm M903 SLAP datas from various sources
-- Add 12.7x99mm M962 SLAP-Tracer datas from various sources
-- Add 12.7x99mm Mk211 HEIAP Raufoss datas from various sources
-- Add 12.7x99mm Mk300 HEIAP-Tracer datas from various sources
-- Add 12.7x99mm M8 API datas from various sources
-- Add 12.7x99mm M20 API-Tracer datas from various sources
+- Add 12.7x99mm M903 SLAP datas from various sources.
+- Add 12.7x99mm M962 SLAP Tracer datas from various sources.
+- Add 12.7x99mm Mk211 HEIAP Raufoss datas from various sources.
+- Add 12.7x99mm Mk300 HEIAP-Tracer datas from various sources.
+- Add 12.7x99mm Nammo MP-DT MultiPurpose IR Dim Tracer datas from various sources.
+- Add 12.7x99mm M8 API datas from various sources.
+- Add 12.7x99mm M20 API Tracer datas from various sources.
+- Add 12.7x99mm Mk257 API IR Dim Tracer datas from various sources.
 - Add night vision capability to Arma 3 LRPS scope (Nightforce NXS 5.5-22x56).
 - Update Arma 3 LRPS scope reticles 6x and 25x correctly centered and calibrated at Arma 3 LRPS magnifications.
 - Add ACE3 AtragMx presets.
