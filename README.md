@@ -14,9 +14,10 @@ ACE3 compatibility for the GM6 Lynx 12.7x99mm with new SLAP, HEIAP and API ammun
 - Add 12.7x99mm M8 API datas from various sources.
 - Add 12.7x99mm M20 API Tracer datas from various sources.
 - Add 12.7x99mm Mk257 API IR Dim Tracer datas from various sources.
-- Add night vision capability to Arma 3 LRPS scope (Nightforce NXS 5.5-22x56).
-- Update Arma 3 LRPS scope reticles 6x and 25x correctly centered and calibrated at Arma 3 LRPS magnifications.
+- Update LRPS, AMS, Kahlia, Kahlia (Old) mRad reticles correctly centered and calibrated at Arma 3 magnifications.
+- Add night vision capability to LRPS, AMS, Kahlia, Kahlia (Old) scopes.
 - Add ACE3 AtragMx presets.
+- Effects and terminal ballistic based on Arma 3 values.
 
 Download link: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3430280443)
 
