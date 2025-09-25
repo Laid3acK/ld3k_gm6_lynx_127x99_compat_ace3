@@ -1,4 +1,4 @@
-ACE3 compatibility for the GM6 Lynx 12.7x99mm with new SLAP, HEIAP and API ammunitions.
+ACE3 ballistics compatibility for the GM6 Lynx 12.7x99mm with new SLAP, HEIAP and API ammunitions.
 - Can be played with or without CBA and ACE3.
 - Default ballistic muzzle velocities according to Advanced Ballistics ICAO muzzle velocities (15°C, 1013.25 hPa, 0%).
 - Default ballistic airFriction based on Advanced Ballistics ICAO ballistic coefficients and drag models with the [ACE3 tool by Ruthberg](https://github.com/acemod/ACE3/blob/master/tools/generate_airfriction_config.py).
